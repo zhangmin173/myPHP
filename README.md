@@ -1,1 +1,1 @@
-## thinkphp 5
+## thinkphp 5 游戏类api
