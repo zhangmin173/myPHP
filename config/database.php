@@ -2,7 +2,7 @@
 
 return [
     // 服务器地址
-    'hostname'        => '114.55.29.42',
+    'hostname'        => 'localhost',
     // 数据库名
     'database'        => '',
     // 数据库用户名
