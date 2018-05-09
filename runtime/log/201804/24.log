@@ -1,0 +1,2136 @@
+---------------------------------------------------------------
+[ 2018-04-24T07:47:27+08:00 ] ::1 ::1 GET /myPHP/
+[ info ] localhost/myPHP/ [运行时间：0.342832s][吞吐率：2.92req/s] [内存消耗：1,162.83kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:48:47+08:00 ] ::1 ::1 GET /myPHP/
+[ info ] localhost/myPHP/ [运行时间：0.023094s][吞吐率：43.30req/s] [内存消耗：1,162.81kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:48:58+08:00 ] ::1 ::1 GET /myPHP/
+[ info ] localhost/myPHP/ [运行时间：0.020462s][吞吐率：48.87req/s] [内存消耗：1,162.81kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:48:58+08:00 ] ::1 ::1 GET /myPHP/
+[ info ] localhost/myPHP/ [运行时间：0.020773s][吞吐率：48.14req/s] [内存消耗：1,162.81kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:48:59+08:00 ] ::1 ::1 GET /myPHP/
+[ info ] localhost/myPHP/ [运行时间：0.017631s][吞吐率：56.72req/s] [内存消耗：1,162.81kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:49:02+08:00 ] ::1 ::1 GET /myPHP/api
+[ info ] localhost/myPHP/api [运行时间：0.048390s][吞吐率：20.67req/s] [内存消耗：1,163.53kb] [文件加载：32]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:49:09+08:00 ] ::1 ::1 GET /myPHP/api/getUser
+[ info ] localhost/myPHP/api/getUser [运行时间：0.019227s][吞吐率：52.01req/s] [内存消耗：1,163.73kb] [文件加载：32]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'getUser',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T07:49:27+08:00 ] ::1 ::1 GET /myPHP/api/test
+[ info ] localhost/myPHP/api/test [运行时间：0.721968s][吞吐率：1.39req/s] [内存消耗：1,422.70kb] [文件加载：35]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\api\controller\Test->index[ D:\xampp\htdocs\myPHP\app\api\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:07:25+08:00 ] ::1 ::1 GET /myPHP/api/test
+[ info ] localhost/myPHP/api/test [运行时间：0.721652s][吞吐率：1.39req/s] [内存消耗：1,422.96kb] [文件加载：35]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\api\controller\Test->index[ D:\xampp\htdocs\myPHP\app\api\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:08:10+08:00 ] ::1 ::1 GET /myPHP/api/test
+[ info ] localhost/myPHP/api/test [运行时间：0.650444s][吞吐率：1.54req/s] [内存消耗：1,422.95kb] [文件加载：35]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\api\controller\Test->index[ D:\xampp\htdocs\myPHP\app\api\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:24:51+08:00 ] ::1 ::1 GET /myPHP/game/pv
+[ info ] localhost/myPHP/game/pv [运行时间：0.023898s][吞吐率：41.84req/s] [内存消耗：1,208.64kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\game\controller\Base' not found[D:\xampp\htdocs\myPHP\app\game\controller\Page.php:8]
+---------------------------------------------------------------
+[ 2018-04-24T08:25:10+08:00 ] ::1 ::1 GET /myPHP/game/pv
+[ info ] localhost/myPHP/game/pv [运行时间：0.028481s][吞吐率：35.11req/s] [内存消耗：2,034.78kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->index[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:25:37+08:00 ] ::1 ::1 GET /myPHP/game/pv?pathname=game-pintu
+[ info ] localhost/myPHP/game/pv?pathname=game-pintu [运行时间：0.068707s][吞吐率：14.55req/s] [内存消耗：2,051.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->index[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:26:40+08:00 ] ::1 ::1 GET /myPHP/game/pv?pathname=game-pintu
+[ info ] localhost/myPHP/game/pv?pathname=game-pintu [运行时间：0.049911s][吞吐率：20.04req/s] [内存消耗：2,051.79kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->index[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:29:21+08:00 ] ::1 ::1 GET /myPHP/game/pv?pathname=game-pintu
+[ info ] localhost/myPHP/game/pv?pathname=game-pintu [运行时间：0.053989s][吞吐率：18.52req/s] [内存消耗：2,053.50kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->index[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:38:02+08:00 ] ::1 ::1 GET /myPHP/game/pv?pathname=game-pintu
+[ info ] localhost/myPHP/game/pv?pathname=game-pintu [运行时间：0.022626s][吞吐率：44.20req/s] [内存消耗：1,125.85kb] [文件加载：32]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'pv',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:38:15+08:00 ] ::1 ::1 GET /myPHP/pame/pv?pathname=game-pintu
+[ info ] localhost/myPHP/pame/pv?pathname=game-pintu [运行时间：0.019828s][吞吐率：50.43req/s] [内存消耗：1,124.30kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pame',
+    1 => 'pv',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:38:20+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.020317s][吞吐率：49.22req/s] [内存消耗：1,157.30kb] [文件加载：33]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN)[D:\xampp\htdocs\myPHP\app\game\controller\Page.php:44]
+---------------------------------------------------------------
+[ 2018-04-24T08:38:38+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.036129s][吞吐率：27.68req/s] [内存消耗：2,105.28kb] [文件加载：46]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: token[D:\xampp\htdocs\myPHP\app\game\controller\Page.php:41]
+---------------------------------------------------------------
+[ 2018-04-24T08:38:47+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.033920s][吞吐率：29.48req/s] [内存消耗：2,045.93kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:39:49+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.028549s][吞吐率：35.03req/s] [内存消耗：2,046.11kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:40:02+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.027495s][吞吐率：36.37req/s] [内存消耗：2,048.57kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:40:36+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.026075s][吞吐率：38.35req/s] [内存消耗：2,048.57kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:41:35+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.030067s][吞吐率：33.26req/s] [内存消耗：2,046.11kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:41:47+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.038117s][吞吐率：26.24req/s] [内存消耗：2,046.12kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:42:49+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.076999s][吞吐率：12.99req/s] [内存消耗：2,065.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:43:07+08:00 ] ::1 ::1 GET /myPHP/page/view?pathname=game-pintu
+[ info ] localhost/myPHP/page/view?pathname=game-pintu [运行时间：0.075824s][吞吐率：13.19req/s] [内存消耗：2,062.87kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->index[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:43:10+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.068279s][吞吐率：14.65req/s] [内存消耗：2,065.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:43:21+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.076305s][吞吐率：13.11req/s] [内存消耗：2,064.95kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:43:32+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.048592s][吞吐率：20.58req/s] [内存消耗：2,064.94kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:47:58+08:00 ] ::1 ::1 GET /myPHP/page/PvToday?pathname=game-pintu
+[ info ] localhost/myPHP/page/PvToday?pathname=game-pintu [运行时间：0.119062s][吞吐率：8.40req/s] [内存消耗：2,067.85kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPvToday',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPvToday[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:48:13+08:00 ] ::1 ::1 GET /myPHP/page/PvToday?pathname=game-pintu
+[ info ] localhost/myPHP/page/PvToday?pathname=game-pintu [运行时间：0.070560s][吞吐率：14.17req/s] [内存消耗：2,068.08kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPvToday',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPvToday[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:50:20+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.060734s][吞吐率：16.47req/s] [内存消耗：2,067.22kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T08:58:36+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.036853s][吞吐率：27.13req/s] [内存消耗：2,118.35kb] [文件加载：46]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\game\controller\Request' not found[D:\xampp\htdocs\myPHP\app\game\controller\ApiBase.php:36]
+---------------------------------------------------------------
+[ 2018-04-24T08:58:51+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.121512s][吞吐率：8.23req/s] [内存消耗：2,067.74kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:02:13+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.038170s][吞吐率：26.20req/s] [内存消耗：1,174.93kb] [文件加载：34]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot redeclare app\game\controller\ApiBase::getToken()[D:\xampp\htdocs\myPHP\app\game\controller\Base.php:121]
+---------------------------------------------------------------
+[ 2018-04-24T09:02:38+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.020915s][吞吐率：47.81req/s] [内存消耗：1,220.02kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\game\controller\Base' not found[D:\xampp\htdocs\myPHP\app\game\controller\Page.php:6]
+---------------------------------------------------------------
+[ 2018-04-24T09:03:02+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.026379s][吞吐率：37.91req/s] [内存消耗：1,220.02kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\game\controller\Base' not found[D:\xampp\htdocs\myPHP\app\game\controller\Page.php:6]
+---------------------------------------------------------------
+[ 2018-04-24T09:03:18+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.084499s][吞吐率：11.83req/s] [内存消耗：2,064.92kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:14:25+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.031991s][吞吐率：31.26req/s] [内存消耗：1,459.30kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\game\controller\Page::getUserOauthInfo()[D:\xampp\htdocs\myPHP\app\game\controller\Base.php:25]
+---------------------------------------------------------------
+[ 2018-04-24T09:14:54+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.086848s][吞吐率：11.51req/s] [内存消耗：2,070.62kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:15:35+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.027469s][吞吐率：36.40req/s] [内存消耗：1,446.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: key[D:\xampp\htdocs\myPHP\app\game\controller\Base.php:26]
+---------------------------------------------------------------
+[ 2018-04-24T09:15:50+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.109258s][吞吐率：9.15req/s] [内存消耗：2,147.85kb] [文件加载：43]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:04+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.057714s][吞吐率：17.33req/s] [内存消耗：2,071.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:04+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.059206s][吞吐率：16.89req/s] [内存消耗：2,071.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:05+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.052298s][吞吐率：19.12req/s] [内存消耗：2,071.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:05+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.063631s][吞吐率：15.72req/s] [内存消耗：2,071.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:05+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.108912s][吞吐率：9.18req/s] [内存消耗：2,071.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:40+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.086096s][吞吐率：11.61req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:41+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.107379s][吞吐率：9.31req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:41+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.060898s][吞吐率：16.42req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:41+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.090366s][吞吐率：11.07req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:42+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.052730s][吞吐率：18.96req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:42+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.079216s][吞吐率：12.62req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:16:42+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.105392s][吞吐率：9.49req/s] [内存消耗：2,071.44kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:17:09+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.020776s][吞吐率：48.13req/s] [内存消耗：1,392.08kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T09:17:09+08:00 ] ::1 ::1 GET /myPHP/myPHP/admin/login/index.html.html
+[ info ] localhost/myPHP/myPHP/admin/login/index.html.html [运行时间：0.016980s][吞吐率：58.89req/s] [内存消耗：1,126.65kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'myPHP',
+    1 => 'admin',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:28:52+08:00 ] ::1 ::1 GET /myPHP/page/pv?pathname=game-pintu
+[ info ] localhost/myPHP/page/pv?pathname=game-pintu [运行时间：0.153052s][吞吐率：6.53req/s] [内存消耗：2,070.37kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'page',
+    2 => 'getPv',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'pathname' => 'game-pintu',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\Page->getPv[ D:\xampp\htdocs\myPHP\app\game\controller\Page.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:32:20+08:00 ] ::1 ::1 GET /myPHP/user/register
+[ info ] localhost/myPHP/user/register [运行时间：0.028780s][吞吐率：34.75req/s] [内存消耗：1,174.77kb] [文件加载：33]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot redeclare app\game\controller\User::register()[D:\xampp\htdocs\myPHP\app\game\controller\User.php:162]
+---------------------------------------------------------------
+[ 2018-04-24T12:32:56+08:00 ] ::1 ::1 GET /myPHP/user/register
+[ info ] localhost/myPHP/user/register [运行时间：0.033324s][吞吐率：30.01req/s] [内存消耗：1,933.64kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:33:13+08:00 ] ::1 ::1 GET /myPHP/user/register
+[ info ] localhost/myPHP/user/register [运行时间：0.028445s][吞吐率：35.16req/s] [内存消耗：1,984.34kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:39:11+08:00 ] ::1 ::1 GET /myPHP/user/register
+[ info ] localhost/myPHP/user/register [运行时间：0.031707s][吞吐率：31.54req/s] [内存消耗：2,064.71kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:40:04+08:00 ] ::1 ::1 GET /myPHP/user/register
+[ info ] localhost/myPHP/user/register [运行时间：0.037021s][吞吐率：27.01req/s] [内存消耗：2,123.88kb] [文件加载：46]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: user[D:\xampp\htdocs\myPHP\app\game\controller\User.php:36]
+---------------------------------------------------------------
+[ 2018-04-24T12:40:18+08:00 ] ::1 ::1 GET /myPHP/user/register
+[ info ] localhost/myPHP/user/register [运行时间：0.033790s][吞吐率：29.59req/s] [内存消耗：2,063.24kb] [文件加载：41]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:48:08+08:00 ] ::1 ::1 GET /myPHP/test
+[ info ] localhost/myPHP/test [运行时间：0.035586s][吞吐率：28.10req/s] [内存消耗：1,417.20kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'test',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\game\controller\Test->index[ D:\xampp\htdocs\myPHP\app\game\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:51:37+08:00 ] ::1 ::1 GET /myPHP/user/register?name=zhangmin&mobile=17357213387
+[ info ] localhost/myPHP/user/register?name=zhangmin&mobile=17357213387 [运行时间：0.067231s][吞吐率：14.87req/s] [内存消耗：2,144.82kb] [文件加载：46]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'zhangmin',
+  'mobile' => '17357213387',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据表字段不存在:[name][D:\xampp\htdocs\myPHP\thinkphp\library\think\db\Builder.php:107]
+---------------------------------------------------------------
+[ 2018-04-24T12:52:39+08:00 ] ::1 ::1 GET /myPHP/user/register?name=zhangmin&mobile=17357213387
+[ info ] localhost/myPHP/user/register?name=zhangmin&mobile=17357213387 [运行时间：0.083012s][吞吐率：12.05req/s] [内存消耗：2,090.65kb] [文件加载：42]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'zhangmin',
+  'mobile' => '17357213387',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-04-24T12:58:47+08:00 ] ::1 ::1 GET /myPHP/user/register?name=zhangmin&mobile=17357213387
+[ info ] localhost/myPHP/user/register?name=zhangmin&mobile=17357213387 [运行时间：0.190165s][吞吐率：5.26req/s] [内存消耗：2,098.18kb] [文件加载：42]
+[ info ] [ LANG ] D:\xampp\htdocs\myPHP\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'game',
+    1 => 'user',
+    2 => 'register',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=4528346112; pgv_si=s3101272064; PHPSESSID=k0d27gs3h7g87q8gvl4ssbvnh0',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'zhangmin',
+  'mobile' => '17357213387',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\game\controller\User->register[ D:\xampp\htdocs\myPHP\app\game\controller\User.php ]
+[ info ] [ LOG ] INIT File
