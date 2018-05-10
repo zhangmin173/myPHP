@@ -22,7 +22,7 @@ class Upload extends Base
       if($info){
           $date = substr($info->getPath(),-8); //获取当前日期
           $filename= $info->getFilename(); //获取文件名
-          $filepath= '/partyjo-web/public/upload/'.$date.'/'.$info->getFilename(); //获取文件有效访问地址
+          $filepath= '/~zhangmin/myPhp/public/upload/'.$date.'/'.$info->getFilename(); //获取文件有效访问地址
           $size= $info->getSize(); //获取文件大小
           $filetype= $info->getExtension(); //获取文件类型
           //4.数据处理
